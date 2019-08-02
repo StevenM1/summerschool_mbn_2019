@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563520835587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1608536594",
+    "id" : "550B9419",
+    "lastKnownWriteTime" : 1562840284,
+    "last_content_update" : 1562840284,
+    "path" : "~/Desktop/summer_school19/rstudioDMC19/DMC-MBN2019/tutorial/get_all_data.R",
+    "project_path" : "tutorial/get_all_data.R",
+    "properties" : {
+        "cursorPosition" : "33,27",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

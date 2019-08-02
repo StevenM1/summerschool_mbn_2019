@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563520847122.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "634234732",
+    "id" : "189732E9",
+    "lastKnownWriteTime" : 1562606693,
+    "last_content_update" : 1562606693,
+    "path" : "~/Desktop/summer_school19/rstudioDMC19/DMC-MBN2019/packages/install_packages.R",
+    "project_path" : "packages/install_packages.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
